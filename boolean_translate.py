@@ -43,7 +43,6 @@ while (True):
         elif '(' in expression or ')' in expression:
             words_list = [""]
             for letter in expression:
-                isCurrentLetter = True
                 if letter=="(":
                     words_list.append(letter)
                 elif letter==")":
