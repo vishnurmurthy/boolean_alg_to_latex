@@ -1,4 +1,6 @@
-# boolean_alg_to_latex
+# Scripts, Lectures, Files
+
+boolean_alg_to_latex:
 Short script to make worded boolean language into latex format
 
 If anyone is using Latex and does not like typing out latex commands, I spent ~20 min making a short python script to translate "English boolean" language to latex format.
